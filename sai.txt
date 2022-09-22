@@ -2,3 +2,5 @@ this is my first writing using linux ternimal
 and i am in vit  
 i sucessflly commited in git now i want to create a account in github 
 and start the dsa boot camp by kunal kushwaha 
+i am unable to push the repo to the github
+
