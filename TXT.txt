@@ -16,4 +16,8 @@ student profile                           [  ]
  
 i have completed my certificate verification and i was sucessfull
 
-i am currently learning git merge
+=======
+trying merge for first time
+
+
+>>>>>>> sec
