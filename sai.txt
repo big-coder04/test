@@ -3,4 +3,5 @@ and i am in vit
 i sucessflly commited in git now i want to create a account in github 
 and start the dsa boot camp by kunal kushwaha 
 i am unable to push the repo to the github
+i saw a youtube video and stared on git hub
 
